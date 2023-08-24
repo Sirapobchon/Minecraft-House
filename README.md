@@ -24,5 +24,11 @@ minecraft:istia_medium_house1
 istia_medium_house2
 minecraft:istia_medium_house2
 
+# Unfinish and WIP.
+
+istia_big_house1
+Relative y=-2
+minecraft:istia_big_house1
+
 Created by: Boss10801
 Enchance by: Sirapobchon
