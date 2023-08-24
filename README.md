@@ -1,6 +1,13 @@
 # Istia City Housing
 This README content the list of Istia house file in the repository
 
+Created by: @Boss10801
+
+Enhance by: @Sirapobchon
+
+To use this file put the sturture file in
+* .minecraft/saves/(WorldName)/generated/minecraft/structures
+
 istia_default_house
 minecraft:istia_default_house1
 
@@ -24,11 +31,10 @@ minecraft:istia_medium_house1
 istia_medium_house2
 minecraft:istia_medium_house2
 
-# Unfinish and WIP.
+## Unfinish and WIP.
 
 istia_big_house1
 Relative y=-2
 minecraft:istia_big_house1
 
-Created by: Boss10801
-Enchance by: Sirapobchon
+
