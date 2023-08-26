@@ -12,10 +12,12 @@ To use this file put the sturture file in
 
 # Contents
 
-1. istia_default_house
+1. istia_default_house1
+	![default_house1](picture/istia_default_house1.gif)
 	- minecraft:istia_default_house1
 
 2. istia_default_house2
+	![default_house2](picture/istia_default_house2.gif)
 	- minecraft:istia_default_house2
 
 3. istia_default_house3
