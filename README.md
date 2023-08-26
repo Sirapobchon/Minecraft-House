@@ -7,7 +7,7 @@ Enhanced by: @Sirapobchon
 
 ## Installation
 
-To use this file put the sturture file in
+To use this file put the structures file in
 * .minecraft/saves/(WorldName)/generated/minecraft/structures
 
 # Contents
@@ -28,23 +28,25 @@ To use this file put the sturture file in
 	- minecraft:istia_default_house3
 	- Relative y=-2
 
-4. istia_default_house4
+4. Istia Default House 4
 
 	![default_house4](picture/istia_default_house4.gif)
 	- minecraft:istia_default_house4
 
-5. istia_default_house5
+5. Istia Default House 5
 
 	![default_house5](picture/istia_default_house5.gif)
 	- minecraft:istia_default_house5
 
-6. istia_medium_house1
+6. Istia Medium House 1
 
+	![medium_house1](picture/istia_medium_house1.gif)
 	- minecraft:istia_medium_house1
 	- Relative y=-4
 
-7. istia_medium_house2
+7. Istia Medium House 2
 
+	![medium_house2](picture/istia_medium_house2.gif)
 	- minecraft:istia_medium_house2
 
 ## Unfinish and WIP
