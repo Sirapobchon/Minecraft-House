@@ -56,15 +56,38 @@ To use this file put the structures file in
 	- minecraft:istia_medium_house2
 	- Created by Boss10801
 
-8. Istia Big House1
+8. Istia Big House 1
 
-	<!--![big_house1](picture/istia_big_house1.gif)-->
+	![big_house1](picture/istia_big_house1.gif)
 	- minecraft:istia_big_house1
+	- Nether Portal include
 	- Relative y=-4
 	- Created by Sirapobchon
 
 ## Unfinish and WIP
 
-	- None at the moment
+1. Istia Big House 2
+	- WIP by Boss10801
+	
+2. Istia High Rise?
+	- Planning Baseplate and Layout
+	
+3. Istia Big House 1-1
+	- Planning
+	- No Nether Portal
+	
+4. Istia Big House 1-2 (Motel)
+	- Planning
+	- Hotel interior
+	
+5. Istia Medium House 3
+	- Planning
+
+6. Istia Tiny House
+	- Planning
+	- 6 X 6 Size?
+	
+7. Istia Market Stall 1
+	- Planning
 
 
